@@ -1,3 +1,5 @@
+-- Code for the check points from Obbies Part 1 Chapter 2 Scripting
+
 local checkpoint = script.Parent
 
 function stepOnCheckpoint(part)
